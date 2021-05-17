@@ -21,6 +21,6 @@ Here are the product application that I have already made from Online Course Lea
 
 
 
-I participated for all features inside the applications , and I also created some notes of creating the Apps from Scratch , because learning from the material / turoial is not easy to re-learn.
+I participated for all features inside the applications , and I also created all important notes of creating the Apps from Scratch by myself, because learning from the material / turoial is not easy to re-learn.
 
 notes : [clickhere](https://github.com/rifansetiawan/FoodMarket/tree/master/notes)
